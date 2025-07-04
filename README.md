@@ -20,15 +20,6 @@ Dataset ini digunakan untuk melatih dan memvalidasi model deteksi kerusakan jala
 
 🔗 [Download Dataset Train & Validation](https://www.dropbox.com/s/qvglw8pqo16769f/pothole_dataset_v8.zip?dl=1)
 
-Struktur folder setelah diekstrak:
-pothole_dataset_v8/
-├── images/
-│ ├── train/
-│ └── val/
-├── labels/
-│ ├── train/
-│ └── val/
-
 ### Dataset untuk Pengujian (Testing)
 Dataset ini berupa video nyata jalanan untuk menguji performa model terhadap kondisi sesungguhnya:
 
